@@ -3,15 +3,22 @@
 ## Laboratorio di simulazione del Dipartimento di Medicina e Chirurgia
 
 
-    Per info e contatti: giovanni.guareschi@unipr.it, tel. 0521 03
-                         maurizio.conca@unipr.it
-                         federico.monaco@unipr.it  
+    
 
-Dove siamo
+## Info e contatti: 
+Segreteria e prenotazioni giovanni.guareschi@unipr.it, tel. 0521 03....   
+Area tecnica    maurizio.conca@unipr.it
+Area e-Learning e innovazione della didattica    federico.monaco@unipr.it  
+                         
+                         
+                    
 
+## Dove siamo
+ 
 La sede centrale del laboratorio è nel Padiglione 27 II piano del perimetro dellì'Ospedale Maggiore di Parma.
+ 
 
-Cosa facciamo
+## Cosa facciamo
 
 Il Laboratorio di Simulazione si occupa di innovazione della didattica e ricerca per promuovere le pratiche di simulazione con trainers e postazioni di simulazione nel campo sanitario.
 In particolare il Laboratorio di Simulazione offre i seguenti servizi:
