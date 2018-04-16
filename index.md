@@ -1,32 +1,31 @@
-## Welcome to GitHub Pages
+## SIMLAB
 
-You can use the [editor on GitHub](https://github.com/simlabunipr/simlabunipr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Laboratorio di simulazione del Dipartimento di Medicina e Chirurgia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+    Per info e contatti: giovanni.guareschi@unipr.it, tel. 0521 03
+                         maurizio.conca@unipr.it
+                         federico.monaco@unipr.it  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dove siamo
 
-```markdown
-Syntax highlighted code block
+La sede centrale del laboratorio è nel Padiglione 27 II piano del perimetro dellì'Ospedale Maggiore di Parma.
 
-# Header 1
-## Header 2
-### Header 3
+Cosa facciamo
 
-- Bulleted
-- List
+Il Laboratorio di Simulazione si occupa di innovazione della didattica e ricerca per promuovere le pratiche di simulazione con trainers e postazioni di simulazione nel campo sanitario.
+In particolare il Laboratorio di Simulazione offre i seguenti servizi:
 
-1. Numbered
-2. List
+1)    
+2)
+3)
+4)    
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
 
 ### Jekyll Themes
 
