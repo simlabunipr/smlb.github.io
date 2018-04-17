@@ -1,9 +1,9 @@
 ## Info e contatti: 
-Segreteria e prenotazioni - giovanni.guareschi@unipr.it
+Segreteria e prenotazioni - [giovanni.guareschi@unipr.it] (mailto:giovanni.guareschi@unipr.it)
 
-Area tecnica e logistica   - maurizio.conca@unipr.it
+Area tecnica e logistica   - [maurizio.conca@unipr.it] (mailto:maurizio.conca@unipr.it)
 
-Area e-Learning e innovazione della didattica - federico.monaco@unipr.it  
+Area e-Learning e innovazione della didattica - [federico.monaco@unipr.it] (mailto:federico.monaco@unipr.it)  
                          
                          
 ## Mission                        
