@@ -1,2 +1,2 @@
-[HOME](https://simlabunipr.github.io/) [CALENDARIO](https://simlabunipr.github.io/calendario.html)  [CYBERINFRASTRUCTURE](https://simlabunipr.github.io/hubzero.html)
+[HOME](https://simlabunipr.github.io/) CALENDARIO  [CYBERINFRASTRUCTURE](https://simlabunipr.github.io/hubzero.html)
 <iframe src="https://calendar.google.com/calendar/embed?src=1lesb1h4g6i0h6gambvkhjhlj8%40group.calendar.google.com&ctz=Europe%2FRome" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
