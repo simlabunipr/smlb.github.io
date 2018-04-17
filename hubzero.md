@@ -1,7 +1,8 @@
 [HOME](https://simlabunipr.github.io/) [CALENDARIO](https://simlabunipr.github.io/calendario.html)  CYBERINFRASTRUCTURE
 
 [HUBZERO](https://hubzero.org/services/opensource) è una piattaforma di collaborazione per la ricerca e la didattica orientata alla simulazione. Sviluppata dalla Purdue University di Indianapolis è rilasciata con licenza MIT a uso gratuito.
-Interactive Simulation Tools
+
+## Strumenti di simulazione interattiva
 The main service of a hub is its capability to distribute interactive, graphical simulation tools through a web browser. In a world where researchers utilize portals and cyber-environments, this ability is simply obsolete.  HUBzero has access to tools in a hub that are interactive; such as, users can zoom in and out of a graph, rotate a molecule, and analyze isosurfaces of a 3D shape, all without having to refresh the wed page.  Researchers can visualize results without having to reserve time on a supercomputer or even wait for a batch job to engage. Users can deploy new tools without having to rewrite codes for the web. 
 
 The HUBzero substructure includes a tool execution and delivery mechanism based on Virtual Network Computing (VNC).   This means any tool that uses a graphical user interface can be installed on the hub and deployed within a few hours. For older tools and codes without a graphical interface, users are able to use the Rappture toolkit that comes with HUBzero to quickly create an interface. The Rappture interface was created to assist users in setting up jobs and visualizing results. These jobs can be sent off to the TeraGrid, the Open Science Grid, and other participating cluster resources.
