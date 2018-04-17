@@ -4,9 +4,11 @@
 
 Vai alla [presentazione su Hubzero](https://help.hubzero.org/app/site/resources/2016/01/01482//McLennanInterviewV2MP4.mp4)
 
+## How does a Hub differ from a web site?
+HUBzero is a website built with regular tools that a website uses but HUBzero builds upon the infrastructure to create an environment in which scientists, researches and students can have access to reliable tools and distribution of their information and findings. Tools utilized to create a hub are the same ones to create a website and they are open source packages: Apache web server, PHP web scripting, Joomla content management system, and a MySQL database for storing content and usage statistics. 
 
 ## Features
-	HUBzero comes default with many features that users might find exploitable. Such features enhance the user’s ability to collaborate with one another for the purposes of research and education. With these collaborative features build into the PolarEDHub, users will be able to explore the hub with ease and quickly become part of the team within this online community. 
+HUBzero comes default with many features that users might find exploitable. Such features enhance the user’s ability to collaborate with one another for the purposes of research and education. With these collaborative features build into the PolarEDHub, users will be able to explore the hub with ease and quickly become part of the team within this online community. 
 
 ## Strumenti di simulazione interattiva
 The main service of a hub is its capability to distribute interactive, graphical simulation tools through a web browser. In a world where researchers utilize portals and cyber-environments, this ability is simply obsolete.  HUBzero has access to tools in a hub that are interactive; such as, users can zoom in and out of a graph, rotate a molecule, and analyze isosurfaces of a 3D shape, all without having to refresh the wed page.  Researchers can visualize results without having to reserve time on a supercomputer or even wait for a batch job to engage. Users can deploy new tools without having to rewrite codes for the web. 
