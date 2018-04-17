@@ -1,4 +1,4 @@
-[HOME](https://simlabunipr.github.io/) [CALENDARIO](https://simlabunipr.github.io/calendario.html)  [CYBERINFRASTRUCTURE](https://simlabunipr.github.io/hubzero.html) RIFERIMENTI
+[HOME](https://simlabunipr.github.io/) [CALENDARIO](https://simlabunipr.github.io/calendario.html)  [CYBERINFRASTRUCTURE](https://simlabunipr.github.io/hubzero.html) RIFERIMENTI [RISORSE](https://simlabunipr.github.io/risorse.html)
 
 ## Prodotti e aziende produttrici dei trainers
 
