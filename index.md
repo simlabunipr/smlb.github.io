@@ -1,4 +1,4 @@
-[HOME](https://simlabunipr.github.io/) [CALENDARIO](https://simlabunipr.github.io/calendario.md)  [CYBERINFRASTRUCTURE](https://simlabunipr.github.io/hubzero.md)
+[HOME](https://simlabunipr.github.io/) [CALENDARIO](https://simlabunipr.github.io/calendario.html)  [CYBERINFRASTRUCTURE](https://simlabunipr.github.io/hubzero.md)
 
 ## Info e contatti: 
 -Segreteria e prenotazioni - [giovanni.guareschi@unipr.it](mailto:giovanni.guareschi@unipr.it)
