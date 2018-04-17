@@ -1,38 +1,18 @@
-## SIMLAB
-
-## Laboratorio di simulazione del Dipartimento di Medicina e Chirurgia
-
-
-    
-
 ## Info e contatti: 
-Segreteria e prenotazioni giovanni.guareschi@unipr.it, tel. 0521 03....   
-Area tecnica    maurizio.conca@unipr.it
-Area e-Learning e innovazione della didattica    federico.monaco@unipr.it  
+Segreteria e prenotazioni - giovanni.guareschi@unipr.it
+Area tecnica e logistica   - maurizio.conca@unipr.it
+Area e-Learning e innovazione della didattica - federico.monaco@unipr.it  
                          
                          
-                    
-
-## Dove siamo
- 
-La sede centrale del laboratorio è nel Padiglione 27 II piano del perimetro dellì'Ospedale Maggiore di Parma.
- 
-
-## Cosa facciamo
-
-Il Laboratorio di Simulazione si occupa di innovazione della didattica e ricerca per promuovere le pratiche di simulazione con trainers e postazioni di simulazione nel campo sanitario.
-In particolare il Laboratorio di Simulazione offre i seguenti servizi:
-
-1)    
-2)
-3)
-4)    
+## Mission                        
+Il team di sviluppo del Laboratorio di Simulazione si occupa di innovazione della didattica e ricerca per la progettazione e la promozione di pratiche di simulazione con trainers e postazioni di simulazione nel campo sanitario e chirurgico.
+  
 
 
 
 
 
-
+......
 
 ### Jekyll Themes
 
