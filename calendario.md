@@ -1,4 +1,4 @@
-[HOME](https://simlabunipr.github.io/) CALENDARIO  [CYBERINFRASTRUCTURE](https://simlabunipr.github.io/hubzero.html)  [RIFERIMENTI](https://simlabunipr.github.io/riferimenti.html)
+[HOME](https://simlabunipr.github.io/) CALENDARIO  [CYBERINFRASTRUCTURE](https://simlabunipr.github.io/hubzero.html)  [RIFERIMENTI](https://simlabunipr.github.io/riferimenti.html) [RISORSE](https://simlabunipr.github.io/risorse.html)
 
 
 scarica il calendario in formato [ICAL](https://calendar.google.com/calendar/ical/1lesb1h4g6i0h6gambvkhjhlj8%40group.calendar.google.com/public/basic.ics)
