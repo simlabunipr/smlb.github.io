@@ -2,7 +2,7 @@ HOME [CALENDARIO](https://simlabunipr.github.io/calendario.html)  [CYBERINFRASTR
 
 
 
-<iframe width="640" height="480" src="https://vimeo.com/user84097964/simlab" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://vimeo.com/user84097964/simlab" frameborder="0" ></iframe>
 
 
 
