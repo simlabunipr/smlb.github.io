@@ -2,9 +2,9 @@ HOME [CALENDARIO](https://simlabunipr.github.io/calendario.html)  [CYBERINFRASTR
 
 
 ## Info e contatti: 
--Segreteria e prenotazioni - [giovanni.guareschi@unipr.it](mailto:giovanni.guareschi@unipr.it)
+-Segreteria e area tecnica - [giovanni.guareschi@unipr.it](mailto:giovanni.guareschi@unipr.it)
 
--Area tecnica e logistica - [maurizio.conca@unipr.it](mailto:maurizio.conca@unipr.it)
+-Area informatica e logistica - [maurizio.conca@unipr.it](mailto:maurizio.conca@unipr.it)
 
 -Area e-Learning e ricerca - [federico.monaco@unipr.it](mailto:federico.monaco@unipr.it)  
                          
