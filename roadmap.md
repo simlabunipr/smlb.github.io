@@ -2,12 +2,21 @@
 
 
 ## FASE ZERO
-
+Attività
+Risorse
+Comunità
 
 ## FASE UNO
-
+Attività
+Risorse
+Comunità
 
 ## FASE DUE
-
+Attività
+Risorse
+Comunità
 
 ## FASE TRE
+Attività
+Risorse
+Comunità
